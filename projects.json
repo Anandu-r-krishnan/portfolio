@@ -163,6 +163,27 @@
       "assets/photos/6.jpg"
     ]
   },
+    {
+    "id": "portrait-sessions",
+    "title": "Portrait sessions",
+    "client": "Lokesh",
+    "category": "Photography",
+    "description": "Available-light portraits shot across Bengaluru and Kochi.",
+    "orientation": "landscape",
+    "role": "Photographer",
+    "thumbnail": "assets/photos/15.jpg",
+    "photos": [
+      "assets/photos/13.jpg",
+      "assets/photos/14.jpg",
+      "assets/photos/15.jpg",
+      "assets/photos/16.jpg",
+      "assets/photos/17.jpg",
+      "assets/photos/18.jpg",
+      "assets/photos/19.jpg",
+      "assets/photos/20.jpg",
+      "assets/photos/21.jpg"
+    ]
+  },
   {
     "id": "product-stills",
     "title": "Product & brand stills",
@@ -181,6 +202,7 @@
       "assets/photos/12.jpg"
     ]
   }
+  
 ]
 
   
